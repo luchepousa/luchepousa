@@ -16,10 +16,14 @@
 
 ## 📫 Cómo contactarme
 
-- 📧 [luchepousa@gmail.com](mailto:luchepousa@gmail.com)
-- 🌐 [Portfolio](https://luchepousa.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/luche/)
+<ul>
+  <li>🌐 <a href="https://luchepousa.com" target="_blank" rel="noopener noreferrer">Portfolio</a></li>
+  <li>💼 <a href="https://linkedin.com/in/luche" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+  <li>📧 <a href="mailto:luchepousa@gmail.com">luchepousa@gmail.com</a></li>
+</ul>
 
----
+> _Ctrl + clic para abrir los enlaces en una nueva pestaña_
+
+--
 
 Gracias por visitar mi perfil. ¡Nos vemos en el código! 🚀
